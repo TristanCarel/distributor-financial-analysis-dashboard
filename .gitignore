@@ -1,0 +1,21 @@
+# Local Python environment
+.venv/
+
+# Generated Python cache
+__pycache__/
+*.py[cod]
+
+# Private configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Mac system files
+.DS_Store
+
+# Temporary SQLite files
+*.db-journal
+*.db-wal
+*.db-shm
+.agents/
