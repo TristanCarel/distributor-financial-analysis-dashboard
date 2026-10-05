@@ -1,5 +1,5 @@
 # Distributor Research
-
+**[Open the live dashboard](https://tristan-distributor-research.streamlit.app/)**
 A financial research dashboard comparing W.W. Grainger (GWW),
 MSC Industrial (MSM), and Wesco International (WCC) across
 fiscal years 2021–2025.
