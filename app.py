@@ -9,11 +9,11 @@ import streamlit as st
 # ---------- Page setup ----------
 
 st.set_page_config(
-    page_title="Distributor Research",
+    page_title="Distributor Financial Analysis Dashboard",
     layout="wide",
 )
 
-st.title("Distributor Research")
+st.title("Distributor Financial Analysis Dashboard")
 st.caption(
     "Earnings quality and cash conversion · Fiscal years 2021–2025"
 )
